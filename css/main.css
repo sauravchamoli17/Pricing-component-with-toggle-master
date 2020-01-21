@@ -35,7 +35,6 @@ h4,
 li,
 button {
   font-weight: 700;
-  font-style: bold;
 }
 .pricing {
   color: var(--grayishblue);
