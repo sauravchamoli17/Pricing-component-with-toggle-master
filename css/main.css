@@ -17,7 +17,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: var(--verylightblue);
-  background-image: url(../images/bg-top.svg), url(../images/bg-bottom.svg);
+  background-image: url(images/bg-top.svg), url(/images/bg-bottom.svg);
   background-repeat: no-repeat, no-repeat;
   background-position: top right, bottom left;
   background-size: 30% 75%, 30% 30%;
