@@ -38,7 +38,7 @@ button {
   font-style: bold;
 }
 .pricing {
-  color: var(--darkgrayishblue);
+  color: var(--grayishblue);
   text-align: center;
 }
 /* Toggle Button Container  */
