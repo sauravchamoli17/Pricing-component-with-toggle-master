@@ -187,7 +187,7 @@ h4 {
 Low resolution devices */
 @media (min-width: 320px) and (max-width: 480px) {
   body {
-    background: url("/images/bg-top.svg") no-repeat;
+    background: url("../images/bg-top.svg") no-repeat;
     background-position: top right;
     background-size: 25% 30%;
   }
@@ -234,7 +234,7 @@ Low resolution devices */
 /* For Tablets */
 @media (min-width: 481px) and (max-width: 767px) {
   body {
-    background: url("/images/bg-top.svg") no-repeat;
+    background: url("../images/bg-top.svg") no-repeat;
     background-position: top right;
     background-size: 25% 30%;
   }
