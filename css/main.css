@@ -186,6 +186,9 @@ h4 {
 /* For Smartphones and 
 Low resolution devices */
 @media (min-width: 320px) and (max-width: 480px) {
+    body{
+    background-size:30% 50%, 30% 10%;
+  }
   main {
     width: 85%;
   }
@@ -228,6 +231,9 @@ Low resolution devices */
 
 /* For Tablets */
 @media (min-width: 481px) and (max-width: 767px) {
+  body{
+    background-size:30% 50%, 30% 10%;
+  }
   main {
     width: 85%;
   }
