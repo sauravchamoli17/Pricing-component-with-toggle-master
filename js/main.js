@@ -1,3 +1,4 @@
+//This technique is KISS- Keep it short and simple.
 var timesclicked = 1;
 function toggle() {
   timesclicked++;
